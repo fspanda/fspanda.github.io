@@ -30,7 +30,7 @@ Image("D:\Blog\Post\images\Macro F1.jpg")
 
 
 
-![jpeg](../images/output_2_0.jpg)
+![jpeg](..\Category\Data-Science\images\output_2_0.jpg)
 
 
 
@@ -44,7 +44,7 @@ Image("D:\Blog\Post\images\Weighted F1.jpg")
 
 
 
-![jpeg](../images/output_4_0.jpg)
+![jpeg](..\Category\Data-Science\images\output_4_0.jpg)
 
 
 
@@ -58,7 +58,7 @@ Image("D:\Blog\Post\images\Micro F1.jpg")
 
 
 
-![jpeg](../images/output_6_0.jpg)
+![jpeg](..\Category\Data-Science\images\output_6_0.jpg)
 
 
 
