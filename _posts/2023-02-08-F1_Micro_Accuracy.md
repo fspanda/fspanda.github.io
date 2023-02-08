@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "첫 포스팅 시작합니다!"
+title:  "F1 Score == Accuracy 인 경우는?"
 category : data-science
 ---
 
