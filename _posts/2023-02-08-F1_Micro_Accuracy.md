@@ -7,9 +7,6 @@ toc: true
 toc_sticky: true
 
 
-tag: 
-    [Data-Science]
-
 date: 2023-02-08
 last_modified_at: 2023-02-08
 ---
