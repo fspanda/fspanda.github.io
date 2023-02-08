@@ -80,7 +80,7 @@ $$Accuracy = \frac{TP+TN}{TP+TN+FP+FN} $$
   
   
 
-$$Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN} \\ \\=\frac{TP}{TP+\frac{1}{2}(FP+FN)}$$
+$$Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN}\\ \\ =\frac{TP}{TP+\frac{1}{2}(FP+FN)}$$
 
 ### 이제 다시 Micro F1 Score의 표를 보자. 
 
