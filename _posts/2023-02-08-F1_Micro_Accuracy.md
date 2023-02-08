@@ -1,14 +1,6 @@
 ---
 layout: post
 title:  "F1 Score == Accuracy 인 경우는?"
-excerpt: "MD 파일을 이용해 처음 블로그를 사용해본 것! 이미지 넣기가 힘들다.."
-
-toc: true
-toc_sticky: true
-
-
-date: 2023-02-08
-last_modified_at: 2023-02-08
 ---
 
 
