@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "F1 Score == Accuracy 인 경우는?"
-category : data-science
+category : [Data-Science]
+tag: [Data-Science]
 ---
 
 
