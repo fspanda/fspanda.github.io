@@ -21,7 +21,7 @@ categories:
 
 Latex 수식으로 정리해 보았다.
 
-
+Latex
 $$Precision = \frac{TP}{TP+FN} $$
 
 $$Recall = \frac{TP}{FP+FN} $$
