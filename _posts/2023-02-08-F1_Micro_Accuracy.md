@@ -6,8 +6,7 @@ excerpt: "MD 파일을 이용해 처음 블로그를 사용해본 것! 이미지
 toc: true
 toc_sticky: true
 
-category : 
-    - Data-Science
+
 tag: 
     [Data-Science]
 
