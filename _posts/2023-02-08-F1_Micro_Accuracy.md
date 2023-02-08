@@ -34,13 +34,13 @@ Macro 평균, Micro 평균, Weighted 평균
 ```python
 #Macro F1 Score
 from IPython.display import Image
-Image("D:/Blog/Post/images/Macro F1.jpg")
+Image("../Category/Data-Science/images/output_2_0.jpg")
 ```
 
 
 
 
-![jpeg](../Category/Data-Science/images/output_2_0.jpg)
+![output_2_0.jpg](../Category/Data-Science/images/output_2_0.jpg)
 
 
 
@@ -48,13 +48,13 @@ Image("D:/Blog/Post/images/Macro F1.jpg")
 
 
 ```python
-Image("D:/Blog/Post/images/Weighted F1.jpg")
+Image("../Category/Data-Science/images/output_4_0.jpg")
 ```
 
 
 
 
-![jpeg](../Category/Data-Science/images/output_4_0.jpg)
+![output_4_0.jpg](../Category/Data-Science/images/output_4_0.jpg)
 
 
 
@@ -62,13 +62,13 @@ Image("D:/Blog/Post/images/Weighted F1.jpg")
 
 
 ```python
-Image("D:/Blog/Post/images/Micro F1.jpg")
+Image("../Category/Data-Science/images/output_6_0.jpg")
 ```
 
 
 
 
-![jpeg](../Category/Data-Science/images/output_6_0.jpg)
+![output_6_0.jpg](../Category/Data-Science/images/output_6_0.jpg)
 
 
 
