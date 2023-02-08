@@ -1,8 +1,18 @@
 ---
 layout: post
 title:  "F1 Score == Accuracy 인 경우는?"
-category : [Data-Science]
-tag: [Data-Science]
+excerpt: "MD 파일을 이용해 처음 블로그를 사용해본 것! 이미지 넣기가 힘들다.."
+
+toc: true
+toc_sticky: true
+
+category : 
+    - Data-Science
+tag: 
+    [Data-Science]
+
+date: 2023-02-08
+last_modified_at: 2023-02-08
 ---
 
 
@@ -24,13 +34,13 @@ Macro 평균, Micro 평균, Weighted 평균
 ```python
 #Macro F1 Score
 from IPython.display import Image
-Image("D:\Blog\Post\images\Macro F1.jpg")
+Image("D:/Blog/Post/images/Macro F1.jpg")
 ```
 
 
 
 
-![jpeg](..\Category\Data-Science\images\output_2_0.jpg)
+![jpeg](../Category/Data-Science/images/output_2_0.jpg)
 
 
 
@@ -38,13 +48,13 @@ Image("D:\Blog\Post\images\Macro F1.jpg")
 
 
 ```python
-Image("D:\Blog\Post\images\Weighted F1.jpg")
+Image("D:/Blog/Post/images/Weighted F1.jpg")
 ```
 
 
 
 
-![jpeg](..\Category\Data-Science\images\output_4_0.jpg)
+![jpeg](../Category/Data-Science/images/output_4_0.jpg)
 
 
 
@@ -52,13 +62,13 @@ Image("D:\Blog\Post\images\Weighted F1.jpg")
 
 
 ```python
-Image("D:\Blog\Post\images\Micro F1.jpg")
+Image("D:/Blog/Post/images/Micro F1.jpg")
 ```
 
 
 
 
-![jpeg](..\Category\Data-Science\images\output_6_0.jpg)
+![jpeg](../Category/Data-Science/images/output_6_0.jpg)
 
 
 
@@ -73,7 +83,7 @@ Image("D:\Blog\Post\images\Micro F1.jpg")
 
 - Accuracy 는 전체 데이터중 True 데이터의 비율이다
 
-$$Accuracy = \frac{TP+TN}{TP+TN+FP+FN} $$  
+$$Accuracy = /frac{TP+TN}{TP+TN+FP+FN} $$  
   
   
 
@@ -81,7 +91,7 @@ $$Accuracy = \frac{TP+TN}{TP+TN+FP+FN} $$
   
   
 
-$$Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN}\\ \\ =\frac{TP}{TP+\frac{1}{2}(FP+FN)}$$
+$$Accuracy = /frac{TP+TP}{TP+TP+FP+FN}// // =/frac {2TP}{2TP+FP+FN}// // =/frac{TP}{TP+/frac{1}{2}(FP+FN)}$$
 
 ### 이제 다시 Micro F1 Score의 표를 보자. 
 
