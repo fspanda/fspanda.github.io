@@ -73,15 +73,18 @@ Image("../Category/Data-Science/images/output_6_0.jpg")
 
 - Accuracy 는 전체 데이터중 True 데이터의 비율이다
 
-$$Accuracy = \frac{TP+TN}{TP+TN+FP+FN} $$  
+$
+    Accuracy = \frac{TP+TN}{TP+TN+FP+FN} 
+$
   
   
 
 이 때 모든 데이터가 정확히 1개의 클래스만 갖는다면, 사실상 TN이라는 데이터는 없다. 그건 또 다른 TP 값이 된다. 즉 TP==TN이 된다.  
-  
-  
+    
 
-$$Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN}\\ \\ =\frac{TP}{TP+\frac{1}{2}(FP+FN)}$$
+$
+Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN}\\ \\ =\frac{TP}{TP+\frac{1}{2}(FP+FN)}
+$
 
 ### 이제 다시 Micro F1 Score의 표를 보자. 
 
@@ -94,10 +97,3 @@ $$Accuracy = \frac{TP+TP}{TP+TP+FP+FN}\\ \\ =\frac {2TP}{2TP+FP+FN}\\ \\ =\frac{
 
 이 글을 읽으시는 분들은 그런 실수를 피할 수 있으면 좋겠다.
 
-
-수식 시험
-
-$10 * 20 = 200$\
-$
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-$
