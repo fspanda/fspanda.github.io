@@ -18,7 +18,7 @@ Macro 평균, Micro 평균, Weighted 평균
 그림으로 표현하면 아래와 같다
 
 
-## Macro-Averaged F1 Score
+## Macro-Averaged F1 Score 2
 
 
 ```python
