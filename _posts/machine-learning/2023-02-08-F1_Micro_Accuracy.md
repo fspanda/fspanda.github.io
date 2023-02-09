@@ -61,7 +61,7 @@ Image("../Category/Data-Science/images/output_6_0.jpg")
 
 
 
-![output_6_0.jpg](../../_images/0208/output_6_0.jpg)](https://github.com/fspanda/fspanda.github.io/blob/master/_images/0208/output_6_0.jpg?raw=true)
+![[output_6_0.jpg](../../_images/0208/output_6_0.jpg)](https://github.com/fspanda/fspanda.github.io/blob/master/_images/0208/output_6_0.jpg?raw=true)
 
 
 
@@ -100,5 +100,4 @@ $
 
 이 글을 읽으시는 분들은 그런 실수를 피할 수 있으면 좋겠다.
 
-이미지 수정 test
 
