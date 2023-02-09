@@ -33,7 +33,7 @@ Image("../Category/Data-Science/images/output_2_0.jpg")
 
 
 
-![output_2_0.jpg](../Category/Data-Science/images/output_2_0.jpg)
+![output_2_0.jpg](../../_images/0208/output_2_0.jpg)
 
 
 
@@ -47,7 +47,7 @@ Image("../Category/Data-Science/images/output_4_0.jpg")
 
 
 
-![output_4_0.jpg](../Category/Data-Science/images/output_4_0.jpg)
+![output_4_0.jpg](../../_images/0208/output_4_0.jpg)
 
 
 
@@ -61,7 +61,7 @@ Image("../Category/Data-Science/images/output_6_0.jpg")
 
 
 
-![output_6_0.jpg](../Category/Data-Science/images/output_6_0.jpg)
+![output_6_0.jpg](../../_images/0208/output_6_0.jpg)
 
 
 
