@@ -47,7 +47,7 @@ Image("../Category/Data-Science/images/output_4_0.jpg")
 
 
 
-![output_4_0.jpg](../../_images/0208/output_4_0.jpg)
+![[output_4_0.jpg](../../_images/0208/output_4_0.jpg)](https://github.com/fspanda/fspanda.github.io/blob/master/_images/0208/output_4_0.jpg?raw=true)
 
 
 
@@ -61,7 +61,7 @@ Image("../Category/Data-Science/images/output_6_0.jpg")
 
 
 
-![output_6_0.jpg](../../_images/0208/output_6_0.jpg)
+![output_6_0.jpg](../../_images/0208/output_6_0.jpg)](https://github.com/fspanda/fspanda.github.io/blob/master/_images/0208/output_6_0.jpg?raw=true)
 
 
 
@@ -99,4 +99,6 @@ $
 이 사실을 몰랐을 때, 괜히 실험을 부탁한 부사수에게 뭐 잘못 나온거 아니냐고 코드 한 번 보자고 했다가 머쓱했던 적이 있다.
 
 이 글을 읽으시는 분들은 그런 실수를 피할 수 있으면 좋겠다.
+
+이미지 수정 test
 
