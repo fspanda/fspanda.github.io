@@ -291,3 +291,4 @@ defaults:
       share: true
       related: true
       use_math: true
+      sidebar_main: true
