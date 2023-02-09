@@ -33,7 +33,7 @@ Image("../Category/Data-Science/images/output_2_0.jpg")
 
 
 
-![output_2_0.jpg](../../_images/0208/output_2_0.jpg)
+![[output_2_0.jpg](../../_images/0208/output_2_0.jpg)](https://github.com/fspanda/fspanda.github.io/blob/master/_images/0208/output_2_0.jpg?raw=true)
 
 
 
